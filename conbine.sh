@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Définir les noms des fichiers source
-fichier1="fichier1.txt"
-fichier2="fichier2.txt"
-fichier3="fichier3.txt"
+fichier1="/var/lib/jenkins/workspace/script/nacer/fichier1.txt"
+fichier2="/var/lib/jenkins/workspace/script/nacer/fichier2.txt"
+fichier3="/var/lib/jenkins/workspace/script/nacer/fichier3.txt"
 
 # Définir le nom du fichier de sortie
 fichier_sortie="fichier_final.txt"
